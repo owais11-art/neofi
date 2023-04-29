@@ -1,4 +1,5 @@
 # neofi
+Live: https://owais11-art.github.io/neofi/
 - clone this repository: git clone https://github.com/owais11-art/neofi.git
 - install vite
 - npm install to install all dependencies
